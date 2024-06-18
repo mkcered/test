@@ -1,0 +1,17 @@
+#menu .navbar-brand {
+        background: background-image: url(https://jsrmtph001.blob.core.windows.net/jaythom/48c2816b-7c74-ed11-81ab-000d3a565c5e.jpg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        padding: 0;
+        height: 80px;
+    }
+.mainBgColor {background: #22224C !important}
+
+
+.secBgColor {background: #00C8FF !important}
+.mainColor {color: #22224c !important}
+.zeal-button.zeal-button-primary {background-color: #FF0000 !important}
+
+
+#receipt-details {display: none !important};
